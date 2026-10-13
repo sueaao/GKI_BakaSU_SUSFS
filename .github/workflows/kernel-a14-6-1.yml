@@ -63,7 +63,7 @@ on:
         default: false
       droidspaces:
         description: "Droidspaces 容器支持"
-        required: false
+        required: true
         type: choice
         options:
           - "off"
